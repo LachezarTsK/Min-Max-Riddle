@@ -22,8 +22,8 @@ public class Solution {
 	private static StringBuilder currentString;
 
 	/**
-	 * Instead of Scanner, BufferedReader and BufferedWriter are applied for faster
-	 * input and output.
+	 * Instead of Scanner and System.out.print, BufferedReader and BufferedWriter
+	 * are applied for faster input and output.
 	 */
 	public static void main(String[] args) throws IOException {
 
